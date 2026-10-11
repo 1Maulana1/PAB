@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21">
+      <module name="PAB_Homework.hw6.main" target="24" />
+      <module name="PAB_Homework.hw6.test" target="24" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

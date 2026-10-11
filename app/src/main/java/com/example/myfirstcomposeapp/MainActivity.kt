@@ -38,12 +38,12 @@ fun MyFirstScreen() {
                 .padding(24.dp) // Menggunakan padding pilihan akhir (24.dp)
         ) {
             // Task 1: Salam personal dan ide aplikasi
-            Text(text = "Hi! I am Maulana.")
-            Text(text = "My idea: A Student Task Tracker App.")
+            Text(text = "Hello! I am Maulana.")
+            Text(text = "My idea: making a creative design in roblox.")
 
             // Task 2: Menggunakan gambar kustom dari res/drawable/my_picture.png
             Image(
-                painter = painterResource(id = R.drawable.my_picture),
+                painter = painterResource(id = R.drawable.My_picture),
                 contentDescription = "Profile picture of Maulana"
             )
         }
